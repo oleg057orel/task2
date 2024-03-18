@@ -1,15 +1,12 @@
 {
-    "name": "test",
-    "version": "1.0.0",
-    "description": "PoC",
+    "name": "eslint-examples",
+    "version": "0.0.0",
+    "description": "",
     "main": "index.js",
-    "author": "lazarov",
-    "license": "ISC",
-    "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Melnioks/test-repo-npm.git"
+    "scripts": {
+      "eslint": "eslint"
     },
-    "keywords": ["test"],
-    "bugs": {"url": "https://github.com/Melnioks/test-repo-npm/issues"},
-    "homepage": "https://github.com/Melnioks/test-repo-npm#readme"
-}
+    "devDependencies": {
+      "eslint": "7.1.0"
+    }
+  }
