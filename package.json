@@ -1,0 +1,15 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "PoC",
+    "main": "index.js",
+    "author": "lazarov",
+    "license": "ISC",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melnioks/test-repo-npm.git"
+    },
+    "keywords": ["test"],
+    "bugs": {"url": "https://github.com/Melnioks/test-repo-npm/issues"},
+    "homepage": "https://github.com/Melnioks/test-repo-npm#readme"
+}
